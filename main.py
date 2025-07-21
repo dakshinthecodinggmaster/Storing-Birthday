@@ -1,0 +1,5 @@
+Luhaan=int(input("will you come to my birthday party    "))
+Sid=int(input("will you come to my birthday party   "))
+Dakshin=int(input("will you come to my birthday party   "))
+zach=int(input("will you come to my birthday party   "))
+mark=int(input("will you come to my birthday party  "))
